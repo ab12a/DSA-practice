@@ -1,7 +1,7 @@
 # 📘 DSA Practice (Python)
 
 A collection of **Data Structures & Algorithms** problems solved in **Python**, organized by topic.  
-This repo is meant for **learning, practicing, and interview preparation**.
+This repo is meant for **learning, practicing**.
 
 ---
 
@@ -16,8 +16,7 @@ Given an array of integers, return the indices of the two numbers such that they
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1] # because nums[0] + nums[1] = 9
 
-yaml
-Copy code
+
 
 **Complexity:**  
 - Time: `O(n)`  
@@ -33,8 +32,7 @@ Find the contiguous subarray with the largest sum within a given array.
 Input: [-2,1,-3,4,-1,2,1,-5,4]
 Output: 6 # subarray [4,-1,2,1] has the largest sum
 
-yaml
-Copy code
+
 
 **Complexity:**  
 - Time: `O(n)`  
@@ -51,8 +49,6 @@ Reverse a singly linked list and return the new head.
 Input: 1 -> 2 -> 3
 Output: 3 -> 2 -> 1
 
-yaml
-Copy code
 
 **Complexity:**  
 - Time: `O(n)`  
@@ -70,22 +66,19 @@ Copy code
 ┣ LICENSE
 ┗ README.md
 
-yaml
-Copy code
 
----
 
 ## 🛠 How to Run
 Clone the repo and run any script:
 
-```bash
+---bash
 git clone https://github.com/ab12a/DSA-practice.git
 cd dsa-practice
 
 # Example: run Kadane’s Algorithm
 python arrays/kadane_algorithm.py
 📜 License
-This repository is licensed under the MIT License.
+This repository is licensed under the Apache 2.0 License.
 
 
 ⭐ Contribute
@@ -97,10 +90,7 @@ Submit pull requests with new DSA problems.
 
 If you find this helpful, ⭐ the repo!
 
-yaml
-Copy code
 
----
 
 ⚡ Done — copy everything above into a file named `README.md` at your repo root.  
 
