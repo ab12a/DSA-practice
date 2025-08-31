@@ -73,7 +73,7 @@ Clone the repo and run any script:
 
 ---bash
 git clone https://github.com/ab12a/DSA-practice.git
-cd dsa-practice
+cd DSA-practice
 
 # Example: run Kadane’s Algorithm
 python arrays/kadane_algorithm.py
